@@ -9,6 +9,6 @@ You can use the first 4 million records for building the model, the next 1 milli
 - [x]	Features selected.
 - [x]	Feature importance
 - [x]	Evaluation of model
-- [x]	Original code
+-
 
 
